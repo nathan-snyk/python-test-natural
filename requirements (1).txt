@@ -1,0 +1,13 @@
+streamlit-aggrid==1.1.1
+streamlit==1.45.1
+pandas
+numpy
+openpyxl
+adal
+sqlalchemy
+pyodbc
+psycopg2-binary
+python-dotenv
+Pillow==11.3.0
+st-annotated-text
+st-click-detector
