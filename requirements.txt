@@ -11,3 +11,4 @@ python-dotenv
 Pillow==11.3.0
 st-annotated-text
 st-click-detector
+cryptography>=46.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
